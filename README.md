@@ -117,23 +117,6 @@ This enriched feature space allows K-Means to distinguish between customers who 
 
 ---
 
-## 📁 Repository Structure
-
-```
-├── data/                    # Sample data files
-├── notebooks/
-│   ├── 01_EDA.ipynb         # Exploratory data analysis
-│   ├── 02_RFM_Features.ipynb    # Feature engineering (RFM++)
-│   ├── 03_Clustering.ipynb      # K-Means clustering & evaluation
-│   └── 04_Retention_Cohort.ipynb    # Cohort retention by cluster
-├── sql/
-│   └── queries.sql          # BigQuery data extraction queries
-├── visuals/                 # Charts and heatmaps
-├── presentation.pdf         # Full project presentation (39 slides)
-└── README.md
-```
-
----
 
 ## 🛠️ Tech Stack
 
