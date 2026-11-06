@@ -18,7 +18,7 @@ We go beyond traditional RFM analysis by engineering an **extended feature set (
 **Dataset:** 100K users · 125K orders · 182K order items · 29K products · 2.43M events  
 **Date Range:** Jan 2019 – Sep 2025  
 **Source:** [Google BigQuery `thelook_ecommerce`](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=thelook_ecommerce)
-
+**Data Visualization:** [Link](https://drive.google.com/file/d/1IfCcnGrwVjjvuasVg3X4bixQPRJC58mW/view?usp=sharing)
 ---
 
 ## 🔥 The Pain Point
@@ -142,14 +142,3 @@ This enriched feature space allows K-Means to distinguish between customers who 
 
 ---
 
-## 👥 Authors
-
-- **Trần Mạnh Tường** — RFM++ feature engineering, clustering, retention analysis
-- Nguyễn Thị Minh Thương — EDA, descriptive analytics
-- Đỗ Lê Tú Uyên — Data preparation, visualization
-
----
-
-## 📄 License
-
-This project is for educational and portfolio purposes. The dataset is publicly available through Google BigQuery.
