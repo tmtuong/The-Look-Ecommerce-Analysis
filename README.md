@@ -19,6 +19,7 @@ We go beyond traditional RFM analysis by engineering an **extended feature set (
 **Date Range:** Jan 2019 – Sep 2025  
 **Source:** [Google BigQuery `thelook_ecommerce`](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=thelook_ecommerce)
 **Data Visualization:** [Link](https://drive.google.com/file/d/1IfCcnGrwVjjvuasVg3X4bixQPRJC58mW/view?usp=sharing)
+
 ---
 
 ## 🔥 The Pain Point
