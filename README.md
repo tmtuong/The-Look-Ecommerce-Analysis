@@ -18,6 +18,7 @@ We go beyond traditional RFM analysis by engineering an **extended feature set (
 **Dataset:** 100K users · 125K orders · 182K order items · 29K products · 2.43M events  
 **Date Range:** Jan 2019 – Sep 2025  
 **Source:** [Google BigQuery `thelook_ecommerce`](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=thelook_ecommerce)
+
 **Data Visualization:** [Link](https://drive.google.com/file/d/1IfCcnGrwVjjvuasVg3X4bixQPRJC58mW/view?usp=sharing)
 
 ---
